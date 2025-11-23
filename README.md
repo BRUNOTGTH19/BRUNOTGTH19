@@ -27,7 +27,6 @@ Superbadge	Apex Specialist (em andamento)
 Comunidade	Participante ativo Trailblazer
 🔗 Vamos Conectar?
 
-Substitua pelos seus links depois
 
 https://www.linkedin.com/in/brunodesousadevads/
  • https://www.salesforce.com/trailblazer/brunodesousadevads
