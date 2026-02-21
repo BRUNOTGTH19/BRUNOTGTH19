@@ -1,33 +1,46 @@
-👋 Olá! Sou Bruno de Sousa
-Aspiring Salesforce Developer | Trailblazer em evolução
+# 👋 Olá! Sou Bruno de Sousa
+**Software Engineer | AI Evaluation & Backend Developer**
 
-📍 Estudante de Análise e Desenvolvimento de Sistemas (ADS) focado em desenvolvimento na Salesforce Platform.
+📍 Estudante de Análise e Desenvolvimento de Sistemas (ADS) focado em Engenharia de Software e Inteligência Artificial.
 
-🎯 Meu Objetivo
+---
 
-Migrar minha experiência em Backend (POO, APIs REST) para o desenvolvimento pro-code no ecossistema Salesforce, atuando como Salesforce Developer (Estágio/Trainee).
+### 🎯 Meu Objetivo
+Atuar como **Desenvolvedor Backend (Python/PHP)** ou **Engenheiro de IA/QA**, aplicando rigor técnico em automação, benchmarking de LLMs e construção de APIs escaláveis.
 
-🛠 Tech Stack Atual & Foco de Estudos
-Área	Foco Principal	Skills Complementares
-Salesforce Dev (Pro-Code)	Apex (Triggers, Classes, Test Classes)	LWC (em estudo), SOQL
-Salesforce Admin (Low-Code)	Flow Builder, automações	Permissões, Modelagem de Objetos
-Base Técnica	POO, APIs RESTful	JavaScript, Git Flow, Clean Code
-💡 Meu Diferencial
+---
 
-Modelagem de Dados: Forte base em bancos relacionais → adaptação natural ao modelo de objetos Salesforce.
+### 🛠 Tech Stack & Ferramentas
+| Área | Foco Principal | Skills Complementares |
+| :--- | :--- | :--- |
+| **Inteligência Artificial** | Claude 3.7/4.5, LLM Benchmarking | Prompt Engineering, OpenRouter API |
+| **Backend** | Python (Django/POO), PHP (Laravel) | Node.js (Express), API RESTful |
+| **DevOps & Infra** | Docker & Docker-compose | Linux, Git Flow, CI/CD |
+| **Qualidade (QA)** | Automação de APIs, Testes Unitários | Engenharia de Requisitos, Scrum |
 
-Integrações: Experiência prática com APIs RESTful, essencial para comunicações externas.
+---
 
-Qualidade de Código: Clean Code e Testes Unitários — disciplina que aplico em Classes e Triggers Apex.
+### 💡 Meus Diferenciais
 
-📊 Trailhead Journey & Próximos Passos
-Meta	Status
-Certificação	Platform Developer I (em estudo)
-Superbadge	Apex Specialist (em andamento)
-Comunidade	Participante ativo Trailblazer
-🔗 Vamos Conectar?
+- **IA & Benchmarking:** Experiência internacional na avaliação técnica dos modelos mais avançados do mercado (Claude 3.7 Sonnet e 4.5).
+- **Cultura DevOps:** Mindset focado em containerização com **Docker**, garantindo que o código rode perfeitamente em qualquer ambiente.
+- **Qualidade de Código:** Forte base em **POO (Programação Orientada a Objetos)** e Clean Code, herdada da experiência em QA Automation.
 
+---
 
-https://www.linkedin.com/in/brunodesousadevads/
- • https://www.salesforce.com/trailblazer/brunodesousadevads
- • brunodesousa.ti@gmail.com
+### 🚀 Projetos em Destaque
+
+- **[Deputies App](https://github.com/BRUNOTGTH19/deputies-app):** API Backend (Laravel) orquestrada via Docker, aplicando arquitetura MVC.
+- **[Plataforma Web Django](https://github.com/BRUNOTGTH19/meuprojeto):** Aplicação Full Stack com Python/Django, focada em segurança e persistência de dados.
+- **[PyBankCore](https://github.com/BRUNOTGTH19/PyBankCore):** Sistema modular em Python para demonstração de pilares avançados de POO.
+
+---
+
+### 🔗 Vamos Conectar?
+
+📫 **Email:** [brunodesousa.ti@gmail.com](mailto:brunodesousa.ti@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/brunodesousadevads/](https://www.linkedin.com/in/brunodesousadevads/)  
+🌐 **Portfólio/GitHub:** [github.com/BRUNOTGTH19](https://github.com/BRUNOTGTH19)
+
+---
+*"Transformando lógica complexa em soluções eficientes e escaláveis."*
