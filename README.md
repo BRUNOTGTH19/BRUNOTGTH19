@@ -1,5 +1,5 @@
 # Olá Tudo bem?
-Me chamo:Bruno de Sousa 👋
+Me chamo: Bruno de Sousa 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas focado no ecossistema **Salesforce**. 
 Minha base é construída sobre Programação Orientada a Objetos (POO) e boas práticas de desenvolvimento backend.
