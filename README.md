@@ -26,14 +26,6 @@ Mudando o patamar de aplicações de entrada através de código limpo, arquitet
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BRUNOTGTH19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-top-langs.vercel.app/api/?username=BRUNOTGTH19&layout=compact&langs_count=7&theme=dark"/>
-</p>
-
----
 
 ## 📥 Vamos nos conectar?
 
